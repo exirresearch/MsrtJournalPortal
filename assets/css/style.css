@@ -722,6 +722,10 @@ input[type="color"]:focus {
     margin-bottom: 2px;
 }
 
+.rank-evaluaton-top-img {
+    height: 115px;
+}
+
 .rank-evaluation-top_title {
     margin-top: 20px;
 }
