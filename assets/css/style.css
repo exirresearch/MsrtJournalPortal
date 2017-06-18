@@ -235,6 +235,13 @@ input[type="color"]:focus {
     }
 }
 
+@media (max-width: 991px) {
+    .JournalPortal-services.row {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
 #information,
 #services {
     margin-top: 30px;
@@ -650,6 +657,13 @@ input[type="color"]:focus {
 .JournalPortal-publicList_title {
     font-size: 12px;
     font-weight: 600;
+}
+
+@media (min-width: 768px) {
+    .JournalPortal-publicList {
+        margin-right: -30px; 
+        margin-left: -15px; 
+    }
 }
 
 .JournalPortal-valid_img {
