@@ -970,3 +970,16 @@ input[type="color"]:focus {
 .navbar-toggle .icon-bar {
     background-color: #fff;
 }
+
+
+@media (min-width: 768px) {
+    #search .col-xs-12 {
+        margin-top: 2px;
+    }
+}
+
+@media (min-width: 992px) {
+    #search .col-xs-12 {
+        padding-right: 0;
+    }
+}
