@@ -263,6 +263,16 @@ input[type="color"]:focus {
     color: #fff;
 }
 
+#footer-menu .navbar-toggle {
+    border: 1px solid #555;
+    margin-right: 15px;
+    margin-left: auto;
+}
+
+#footer-menu .navbar-toggle .icon-bar {
+    background-color: #555;
+}
+
 
 /* Colors */
 
